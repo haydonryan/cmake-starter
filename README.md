@@ -1,7 +1,7 @@
 # cmake-starter
 Starter templates for various cmake related projects
 
-C++ Linters:
+## C++ Linters
 
-GO Linters:
+## GO Linters
 https://golangci-lint.run/usage/configuration/
